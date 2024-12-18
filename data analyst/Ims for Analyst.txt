@@ -1,0 +1,28 @@
+To grasp 80% of what you need to know about being a data analyst, focus on these key areas:
+
+### 1. **Understanding Data**:
+   - **Types of Data**: Know the difference between structured (databases, spreadsheets) and unstructured data (text, images).
+   - **Data Sources**: Familiarize yourself with common sources, like SQL databases, CSV files, and APIs.
+
+### 2. **Data Cleaning and Preparation**:
+   - **Data Quality**: Learn techniques to clean and validate data (handling missing values, duplicates).
+   - **Transformations**: Understand how to manipulate data (normalization, aggregation).
+
+### 3. **Analytical Tools**:
+   - **Excel**: Proficient in using Excel for data manipulation and basic analysis.
+   - **SQL**: Learn SQL basics for querying databases. Focus on SELECT statements, JOINs, and WHERE clauses.
+   - **Visualization Tools**: Get comfortable with tools like Tableau or Power BI for creating dashboards.
+
+### 4. **Statistical Analysis**:
+   - **Descriptive Statistics**: Understand means, medians, modes, and standard deviation.
+   - **Basic Inferential Statistics**: Learn about hypothesis testing and confidence intervals.
+
+### 5. **Communication Skills**:
+   - **Data Storytelling**: Develop the ability to present data insights clearly. Focus on visualization and narrative techniques.
+   - **Stakeholder Engagement**: Learn how to gather requirements and communicate findings effectively.
+
+### 6. **Problem-Solving Approach**:
+   - **Critical Thinking**: Practice breaking down problems and approaching data analysis methodically.
+   - **Iterative Process**: Embrace an iterative approach to refine your analyses based on feedback.
+
+By mastering these areas, you'll cover the fundamentals that make a data analyst effective in various roles.
