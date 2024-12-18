@@ -20,3 +20,7 @@
 '''
 1. to do array operation min we need 2 arrays
 2. both the arrays should be same length
+
+
+print('Hello world')
+print('Bye world')
